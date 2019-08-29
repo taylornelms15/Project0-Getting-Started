@@ -4,8 +4,9 @@ Project 0 Getting Started
 **University of Pennsylvania, CIS 565: GPU Programming and Architecture, Project 0**
 
 * Taylor Nelms
-  * (TODO) [LinkedIn](), [twitter](@nelms_taylor), etc.
-* Tested on: (TODO) Windows 22, i7-2222 @ 2.22GHz 22GB, GTX 222 222MB (Moore 2222 Lab)
+  * (TODO) [LinkedIn](), [twitter](https://twitter.com/nelms_taylor), etc.
+* Tested on: A real PoS machine, for now
+<!--* Tested on: (TODO) Windows 22, i7-2222 @ 2.22GHz 22GB, GTX 222 222MB (Moore 2222 Lab)-->
 
 ### (TODO: Your README)
 
