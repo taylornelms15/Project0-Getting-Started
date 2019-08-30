@@ -23,13 +23,15 @@ The chrome set-up worked fine, as shown by this screenshot showing the ability t
 #### Part 5
 
 I'll admit that I'm not yet hyper-familar on how to read the following analysis:
+
 ![Running Timeline](images/pt5_timeline.png)
 
 #### Part 6
 
 Similarly, I'm not sure exactly what I should be looking at within these debugging outputs, though once I get deeper into the weeds trying to implement things, they'll likely prove useful
+
 ![Debug Info Windows](images/pt6_info_windows.png)
 
-Include screenshots, analysis, etc. (Remember, this is public, so don't put
-anything here that you don't want to share with the world.)
+#### Project Feedback
 
+This project was interesting because while getting all the pieces and parts together early is tremendously valuable, the actual mechanisms were less useful without a solid analytical or productive goal behind them. I can go through the motions of setitng breakpoints and whatnot, but it would have been perhaps more interesting if I had needed to do so to solve a problem. Additionally, getting logistics for the class together on two days notice has been an interesting, but ultimately necessary, experience.
