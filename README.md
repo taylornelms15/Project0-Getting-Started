@@ -18,7 +18,7 @@ By that same token, I was also not able to do any of the DXR elements of the ass
 #### Subsection 1
 
 The chrome set-up worked fine, as shown by this screenshot showing the ability to make use of WebGL:
-~[](images/chrome_screenshot.jpg)
+~[Chrome WebGL Screenshot](images/chrome_screenshot.jpg)
 
 Include screenshots, analysis, etc. (Remember, this is public, so don't put
 anything here that you don't want to share with the world.)
