@@ -15,10 +15,20 @@ As for specs, it will be running a Intel Core i3-9100F Coffee Lake 4-Core 3.6 GH
 
 By that same token, I was also not able to do any of the DXR elements of the assignment.
 
-#### Subsection 1
+#### Part 2.2
 
 The chrome set-up worked fine, as shown by this screenshot showing the ability to make use of WebGL:
 ![Chrome WebGL Screenshot](images/chrome_screenshot.jpg)
+
+#### Part 5
+
+I'll admit that I'm not yet hyper-familar on how to read the following analysis:
+![Running Timeline](images/pt5_timeline.png)
+
+#### Part 6
+
+Similarly, I'm not sure exactly what I should be looking at within these debugging outputs, though once I get deeper into the weeds trying to implement things, they'll likely prove useful
+![Debug Info Windows](images/pt6_info_windows.png)
 
 Include screenshots, analysis, etc. (Remember, this is public, so don't put
 anything here that you don't want to share with the world.)
