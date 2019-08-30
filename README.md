@@ -10,7 +10,7 @@ Project 0 Getting Started
 
 ### README
 
-\tAs an initial note: this project is slightly premature for me, as an
+    As an initial note: this project is slightly premature for me, as an
 
 Include screenshots, analysis, etc. (Remember, this is public, so don't put
 anything here that you don't want to share with the world.)
